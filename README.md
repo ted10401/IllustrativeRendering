@@ -1,5 +1,8 @@
 # IllustrativeRendering
 
+## Paper Source
+[Illustrative Rendering in Team Fortress 2](http://www.valvesoftware.com/publications/2007/NPAR07_IllustrativeRenderingInTeamFortress2.pdf)
+
 ## Albedo
 ![alt tag](https://github.com/ted10401/IllustrativeRendering/blob/master/GithubResources/illustrative_rendering_albedo.png)
 
